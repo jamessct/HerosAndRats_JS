@@ -1,0 +1,14 @@
+{
+  "name": "hero_lab",
+  "version": "1.0.0",
+  "description": "hero eats some food",
+  "main": "hero.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}
