@@ -1,5 +1,3 @@
-var Food = require('./food');
-
 var Rat = function(name, health, favouriteFood) {
   this.name = name;
   this.health = health;
